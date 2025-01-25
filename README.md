@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-An advanced Tic-Tac-Toe game with a Tkinter-based GUI, featuring an unbeatable AI powered by the Minimax algorithm.
+
+This advanced Tic-Tac-Toe game is built using Python’s Tkinter library for a sleek and interactive GUI experience. It features an unbeatable AI powered by the Minimax algorithm, ensuring optimal gameplay against the computer. Players take on the role of “X” while the computer plays as “O,” strategically planning every move to secure victory or force a draw. The game includes dynamic win/draw detection, a reset option for quick restarts, and intuitive controls for seamless interaction. Whether you’re looking to test your skills or understand AI strategy, this game delivers an engaging and educational experience.
